@@ -327,6 +327,10 @@ html {
   color: #996e6d;
 }
 
+.waktu strong {
+  color: #996e6d;
+}
+
 .tanggal-angka {
   font-size: 5rem;
   font-family: "Raleway", sans-serif;
